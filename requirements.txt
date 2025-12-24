@@ -1,5 +1,4 @@
 langchain
-langchain_classic
 langchain_openai
 openai
 python-dotenv
